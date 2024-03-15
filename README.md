@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/nivedhanj](https://www.datascienceportfol.io/nivedhanj)
 
-- 📝 I regularly write articles on       [https://www.linkedin.com/in/nivedhan-j/](https://www.linkedin.com/in/nivedhan-j/)
+- 📝 I regularly write and post articles at [https://www.linkedin.com/in/nivedhan-j/](https://www.linkedin.com/in/nivedhan-j/)
 
 - 💬 Ask me about **SQL, Python, Tableau, Excel, PowerBI, Pandas, Matplotlib, Seaborn, Numpy, Machine learning(Linear regression and Logistic regression)**
 
