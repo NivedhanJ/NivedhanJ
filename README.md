@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nivedhan1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h0i7WrTjRcYR6HnYxRet16du_TnV6bKQ/view?usp=drive_link](https://drive.google.com/file/d/1h0i7WrTjRcYR6HnYxRet16du_TnV6bKQ/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-8eDyRyT6DrbVkLrGNTpS33hYCC5wP9U/view?usp=drive_link](https://drive.google.com/file/d/1-8eDyRyT6DrbVkLrGNTpS33hYCC5wP9U/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
